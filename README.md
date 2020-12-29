@@ -1,6 +1,6 @@
 # LuckyCash
 LuckyCashApp
-<h3>I'am Tubasya<\h3>
+<h3>I'am Tubasya</h3>
 <br>Script LuckyCash AUTO CLAIM POINTS.
 <h2>How to use</h2>
 <h3>Linux :</h3>
