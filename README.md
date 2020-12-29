@@ -3,7 +3,7 @@ LuckyCashApp
 <h3>I'am Tubasya</h3>
 <br>Script LuckyCash AUTO CLAIM POINTS.
 <h2>How to use</h2>
-<h3>Linux :</h3>
+<h3>Linux/Termux :</h3>
 <br>Enter the below command in the terminal :
 <br><code>git clone https://github.com/Imtubasya/luckycash</code>
 <br>Install php :
@@ -14,7 +14,7 @@ LuckyCashApp
 
 <h3>Windows :</h3>
 <br>Enter the below command in the CMD :
-<br><code>php example.php</code>
+<br><code>php.exe example.php</code>
 <br>Enter!!
 <br><br>
 <h3>MY CHANNEL :</h3>
